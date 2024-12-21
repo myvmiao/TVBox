@@ -905,7 +905,7 @@
       "name": "YT港湾直播",
       "type": 0,
       "url": "https://gh-proxy.com/raw.githubusercontent.com/myvmiao/tv/refs/heads/main/tw-hk.txt",
-      "proxy":"proxy"
+      "proxy":"proxy",
       "playerType": 2,
       "timeout": 15
     }
