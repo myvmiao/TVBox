@@ -1,7 +1,5 @@
 {
   "spider": "https://gh-proxy.com/raw.githubusercontent.com/myvmiao/TVBox/refs/heads/main/jar/okpng.txt;md5;8c48a922234d6aab37ae44e3168bbd2a",
-  "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
-  "logo": "https://gh-proxy.com/raw.githubusercontent.com/myvmiao/TVBox/refs/heads/main/lib/ol.txt",
   "sites": [
     {
       "key": "豆瓣",
