@@ -465,8 +465,7 @@
       "type": 0,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/multicast.txt",
       "playerType": 2,
-      "timeout": 60,
-       "ua": "okhttp/3.15"
+      "timeout": 60
     },
     { 
       "name": "湾湾直播",
