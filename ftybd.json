@@ -661,6 +661,8 @@
         "youtube.com",
         "uhibo.com",
         ".*boku.*",
+         "4gtv.tv",
+         "cdn.hinet.net",
         ".*nivod.*",
         ".*ulivetv.*"
       ]
