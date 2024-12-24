@@ -460,6 +460,13 @@
       "playerType": 2,
       "timeout": 60
     },
+    {
+      "name": "IPTV直播-N1",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/myvmiao/tv/refs/heads/main/iptv.txt",
+      "playerType": 2,
+      "timeout": 60
+    }, 
     { 
       "name": "国内-组播源",
       "type": 0,
@@ -663,11 +670,15 @@
            ".*boku.*",
            "4gtv.tv",
            "airmsg.4gtv.tv",
+           "hinet.net",
            "cdn.hinet.net",
            "4gtvfreepc-cds.cdn.hinet.net",
            ".*nivod.*",
+           "www.chaojidianshi.net",
+           "chaojidianshi.net",
+           "www.chaojidianshi.net",
+           "ballbar.net",
            "c.2mdn-cn.net",
-           "r10---sn-2x3eln7d.c.2mdn-cn.net",
            ".*ulivetv.*"
       ]
     },
