@@ -663,11 +663,17 @@
            ".*boku.*",
            "4gtv.tv",
            "airmsg.4gtv.tv",
+           "api2.4gtv.tv",
+           "collect.4gtv.tv",
+           "hinet.net",
            "cdn.hinet.net",
            "4gtvfreepc-cds.cdn.hinet.net",
            ".*nivod.*",
+           "chaojidianshi.net",
+           "www.chaojidianshi.net",
+           "ballbar.net",
+           "ushls.balbar.net",
            "c.2mdn-cn.net",
-           "r10---sn-2x3eln7d.c.2mdn-cn.net",
            ".*ulivetv.*"
       ]
     },
