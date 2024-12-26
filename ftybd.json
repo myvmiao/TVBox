@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/raw.githubusercontent.com/myvmiao/TVBox/refs/heads/main/jar/fty.jar;md5;7c6dbc73b47bcff6a7744f6aecedebc2",
+  "spider": "https://ghproxy.cn/https://raw.githubusercontent.com/myvmiao/TVBox/refs/heads/main/jar/fty.jar;md5;7c6dbc73b47bcff6a7744f6aecedebc2",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
     "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
   "sites": [
@@ -227,8 +227,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/myvmiao/TVBox/refs/heads/main/libf/drpy2.min.js",
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/myvmiao/TVBox/refs/heads/main/libf/jp.js"
+      "api": "https://ghproxy.cn/https://raw.githubusercontent.com/myvmiao/TVBox/refs/heads/main/libf/drpy2.min.js",
+      "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/myvmiao/TVBox/refs/heads/main/libf/jp.js"
     },
     {
       "key": "Auete",
@@ -282,8 +282,8 @@
       "key": "有声小说js",
       "name": "🎧有声┃小说",
       "type": 3,
-      "api": "https://gh-proxy.com/raw.githubusercontent.com/myvmiao/TVBox/refs/heads/main/libf/drpy2.min.js",
-      "ext": "https://gh-proxy.com/raw.githubusercontent.com/myvmiao/TVBox/refs/heads/main/libf/有声小说吧.js",
+      "api": "https://ghproxy.cn/https://raw.githubusercontent.com/myvmiao/TVBox/refs/heads/main/libf/drpy2.min.js",
+      "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/myvmiao/TVBox/refs/heads/main/libf/有声小说吧.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -438,7 +438,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://gh-proxy.com/raw.githubusercontent.com/myvmiao/TVBox/refs/heads/main/libf/biliych.json"
+        "json": "https://ghproxy.cn/https://raw.githubusercontent.com/myvmiao/TVBox/refs/heads/main/libf/biliych.json"
       }
     }
   ],
@@ -447,30 +447,30 @@
       "name": "肥羊直播",
       "type": 3,
       "api": "csp_Feiyang",
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/myvmiao/tv/refs/heads/main/ok.txt",
+      "url": "https://ghproxy.cn/https://https://raw.githubusercontent.com/myvmiao/tv/refs/heads/main/ok.txt",
       "ext": "file://v7/allinone;md5;file://v7/md5",
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+      "jar": "https://ghproxy.cn/https://https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
       "timeout": 60,
       "ua": "okhttp/3.15"
     },
     {
       "name": "IPTV直播-本地",
       "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/myvmiao/tv/refs/heads/main/iptv.txt",
+      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/myvmiao/tv/refs/heads/main/iptv.txt",
       "playerType": 2,
       "timeout": 60
     }, 
     {
       "name": "国内-酒店源",
       "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/hotel.txt",
+      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/hotel.txt",
       "playerType": 2,
       "timeout": 60
     },
     { 
       "name": "国内-组播源",
       "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/multicast.txt",
+      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/multicast.txt",
       "playerType": 2,
       "timeout": 60
     },
@@ -491,21 +491,21 @@
     { 
       "name": "港湾-4gtv(P)",
       "type": 0,
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/myvmiao/tv/refs/heads/main/4gtv.m3u",
+      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/myvmiao/tv/refs/heads/main/4gtv.m3u",
       "playerType": 2,
       "timeout": 60
     },
     { 
       "name": "港湾-超级电视(P)",
       "type": 0,
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/myvmiao/tv/refs/heads/main/chaojidianshi.txt",
+      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/myvmiao/tv/refs/heads/main/chaojidianshi.txt",
       "playerType": 2,
       "timeout": 60
     },
     { 
       "name": "港湾-肥羊(P)",
       "type": 0,
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/myvmiao/tv/refs/heads/main/ytb-allinone.txt",
+      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/myvmiao/tv/refs/heads/main/ytb-allinone.txt",
       "playerType": 2,
       "timeout": 60
     }    
