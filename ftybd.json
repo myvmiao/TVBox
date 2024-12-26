@@ -454,7 +454,7 @@
       "ua": "okhttp/3.15"
     },
     {
-      "name": "IPTV直播-N1",
+      "name": "IPTV直播-本地",
       "type": 0,
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/myvmiao/tv/refs/heads/main/iptv.txt",
       "playerType": 2,
@@ -475,26 +475,40 @@
       "timeout": 60
     },
     { 
-      "name": "湾湾直播",
+      "name": "湾湾-aktv",
+      "type": 0,
+      "url": "http://aktv.top/live.m3u",
+      "playerType": 2,
+      "timeout": 60
+    },
+    { 
+      "name": "湾湾-freetv",
       "type": 0,
       "url": "https://freetv.fun/test_channels_taiwan_new.txt",
       "playerType": 2,
       "timeout": 60
     },
-       { 
-      "name": "YT港湾直播",
-      "type": 0,
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/myvmiao/tv/refs/heads/main/tw-hk.txt",
-      "playerType": 2,
-      "timeout": 60
-    },
     { 
-      "name": "港湾-4gtv",
+      "name": "港湾-4gtv(P)",
       "type": 0,
       "url": "https://gh-proxy.com/raw.githubusercontent.com/myvmiao/tv/refs/heads/main/4gtv.m3u",
       "playerType": 2,
       "timeout": 60
-    }
+    },
+    { 
+      "name": "港湾-超级电视(P)",
+      "type": 0,
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/myvmiao/tv/refs/heads/main/chaojidianshi.txt",
+      "playerType": 2,
+      "timeout": 60
+    },
+    { 
+      "name": "港湾-肥羊(P)",
+      "type": 0,
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/myvmiao/tv/refs/heads/main/ytb-allinone.txt",
+      "playerType": 2,
+      "timeout": 60
+    }    
   ],
   "ijk": [
     {
