@@ -444,7 +444,7 @@
   ],
   "lives": [
     {
-      "name": "肥羊直播",
+      "name": "肥羊直播-本地",
       "type": 3,
       "api": "csp_Feiyang",
       "url": "https://ghproxy.cn/https://raw.githubusercontent.com/myvmiao/tv/refs/heads/main/ok.txt",
@@ -496,30 +496,12 @@
     { 
       "name": "港湾-4gtv(P)",
       "type": 0,
-      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/myvmiao/tv/refs/heads/main/4gtv.m3u",
+      "url": "https://now.v2ssr.xyz/4gtv.m3u",
       "playerType": 2,
       "timeout": 60,
       "proxy":"proxy",
       "ua": "okhttp/3.15"
-    },
-    { 
-      "name": "港湾-超级电视(P)",
-      "type": 0,
-      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/myvmiao/tv/refs/heads/main/chaojidianshi.txt",
-      "playerType": 2,
-      "timeout": 60,
-      "proxy":"proxy",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
-    },
-    { 
-      "name": "港湾-肥羊(P)",
-      "type": 0,
-      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/myvmiao/tv/refs/heads/main/ytb-allinone.txt",
-      "playerType": 2,
-      "timeout": 60,
-      "proxy":"proxy",
-      "ua": "okhttp/3.15"
-    }    
+    } 
   ],
   "ijk": [
     {
