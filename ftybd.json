@@ -481,10 +481,17 @@
       "playerType": 2,
       "timeout": 60
     },
-    { 
+       { 
       "name": "YT港湾直播",
       "type": 0,
       "url": "https://gh-proxy.com/raw.githubusercontent.com/myvmiao/tv/refs/heads/main/tw-hk.txt",
+      "playerType": 2,
+      "timeout": 60
+    }
+    { 
+      "name": "港湾-4gtv",
+      "type": 0,
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/myvmiao/tv/refs/heads/main/4gtv.m3u",
       "playerType": 2,
       "timeout": 60
     }
