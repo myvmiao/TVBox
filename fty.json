@@ -454,14 +454,6 @@
       "ua": "okhttp/3.15"
     },   
     {
-      "name": "IPTV直播-本地",
-      "type": 0,
-      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/myvmiao/tv/refs/heads/main/iptv.txt",
-      "playerType": 2,
-      "timeout": 60,
-      "ua": "okhttp/3.15"
-    }, 
-    {
       "name": "国内-酒店源",
       "type": 0,
       "url": "https://ghproxy.cn/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/hotel.txt",
@@ -492,34 +484,7 @@
       "playerType": 2,
       "timeout": 60,
       "ua": "okhttp/3.15"
-    },
-    { 
-      "name": "港湾-4gtv(P)",
-      "type": 0,
-      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/myvmiao/tv/refs/heads/main/4gtv.m3u",
-      "playerType": 2,
-      "timeout": 60,
-      "proxy":"proxy",
-      "ua": "okhttp/3.15"
-    },
-    { 
-      "name": "港湾-超级电视(P)",
-      "type": 0,
-      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/myvmiao/tv/refs/heads/main/chaojidianshi.txt",
-      "playerType": 2,
-      "timeout": 60,
-      "proxy":"proxy",
-      "ua": "okhttp/3.15"
-    },
-    { 
-      "name": "港湾-肥羊(P)",
-      "type": 0,
-      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/myvmiao/tv/refs/heads/main/ytb-allinone.txt",
-      "playerType": 2,
-      "timeout": 60,
-      "proxy":"proxy",
-      "ua": "okhttp/3.15"
-    }    
+    }
   ],
   "ijk": [
     {
