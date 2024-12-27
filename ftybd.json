@@ -710,7 +710,10 @@
            "iptv.vip-tptv.xyz",
            "yximgs.com",
            "hlspull.yximgs.com",
-           "ali.hlspull.yximgs.com",  
+           "ali.hlspull.yximgs.com",
+           "iptv200.com",
+           "t24.iptv200.com",
+           "r10.o.lencr.org",
            ".*ulivetv.*"
       ]
     },
