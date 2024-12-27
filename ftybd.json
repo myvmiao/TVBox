@@ -494,6 +494,15 @@
       "ua": "okhttp/3.15"
     },
     { 
+      "name": "国内外-IPTV研究所",
+      "type": 0,
+      "url": "https://www.mytvsuper.com.mp/m3u/Live.m3u",
+      "playerType": 2,
+      "timeout": 60,
+      "proxy":"proxy",
+      "ua": "okhttp/3.15"
+    },
+    { 
       "name": "港湾-4gtv(P)",
       "type": 0,
       "url": "https://now.v2ssr.xyz/4gtv.m3u",
