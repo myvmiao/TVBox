@@ -448,7 +448,7 @@
       "type": 3,
       "api": "csp_Feiyang",
       "url": "https://ghproxy.cn/https://raw.githubusercontent.com/myvmiao/tv/refs/heads/main/ok.txt",
-      "ext": "file://Download/allinone-linux-musl;md5;file://Download/md5",
+      "ext": "file://Download/allinone;md5;file://Download/md5",
       "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
       "timeout": 60,
       "ua": "okhttp/3.15"
