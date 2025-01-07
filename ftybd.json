@@ -519,16 +519,7 @@
       "timeout": 60,
       "proxy":"proxy",
       "ua": "okhttp/3.15"
-    },
-    { 
-      "name": "湾湾-tptv(P)",
-      "type": 0,
-      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/myvmiao/tv/refs/heads/main/tptv.m3u",
-      "playerType": 2,
-      "timeout": 60,
-      "proxy":"proxy",
-      "ua": "okhttp/3.15"
-    } 
+    }
   ],
   "ijk": [
     {
