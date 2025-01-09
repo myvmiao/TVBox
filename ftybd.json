@@ -422,7 +422,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://gh-proxy.com/raw.githubusercontent.com/myvmiao/TVBox/refs/heads/main/libf/bilibili.json"
+        "json": "https://ghproxy.cn/https://raw.githubusercontent.com/myvmiao/TVBox/refs/heads/main/libf/bilibili.json"
       }
     },
     {
