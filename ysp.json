@@ -496,7 +496,7 @@
     { 
       "name": "国内外-IPTV研究所",
       "type": 0,
-      "url": "https://www.mytvsuper.com.mp/m3u/Live.m3u",
+      "url": "https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=231124824398752",
       "playerType": 2,
       "timeout": 60,
       "proxy":"proxy",
