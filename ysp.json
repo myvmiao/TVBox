@@ -505,7 +505,7 @@
     { 
       "name": "湾湾-4gtv本地(P)",
       "type": 0,
-      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/myvmiao/tv/refs/heads/main/ofiii.m3u",
+      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/myvmiao/tv/refs/heads/main/4gtv.txt",
       "playerType": 2,
       "timeout": 60,
       "proxy":"proxy",
