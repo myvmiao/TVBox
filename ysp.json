@@ -723,6 +723,9 @@
            "mastvnet.com",
            "ofiii.com",
            "akamaized.net",
+           "jsdelivr.net",
+           "7moor-fs1.com",
+           "7moor-fs2.com",
            ".*ulivetv.*"
       ]
     },
