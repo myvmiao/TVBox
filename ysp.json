@@ -454,6 +454,14 @@
       "proxy":"proxy",
       "ua": "okhttp/3.15"
     },
+   {
+      "name": "itv直播-本地",
+      "type": 0,
+      "url": "http://192.168.2.3:35555/Sub?type=m3u",
+      "playerType": 2,
+      "timeout": 60,
+      "ua": "okhttp/3.15"
+    },
     {
       "name": "国内-酒店源",
       "type": 0,
