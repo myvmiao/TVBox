@@ -506,7 +506,7 @@
     { 
       "name": "湾湾-4gtv本地(P)",
       "type": 0,
-      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/myvmiao/tv/refs/heads/main/4gtv.txt",
+      "url": "http://192.168.2.3:37000/Sub?type=m3u",
       "playerType": 2,
       "timeout": 60,
       "proxy":"proxy",
