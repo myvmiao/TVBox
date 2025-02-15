@@ -462,26 +462,10 @@
       "timeout": 60,
       "ua": "okhttp/3.15"
     },
-    {
-      "name": "国内-酒店源",
-      "type": 0,
-      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/hotel.txt",
-      "playerType": 2,
-      "timeout": 60,
-      "ua": "okhttp/3.15"
-    },
     { 
-      "name": "国内-组播源",
+      "name": "全球直播-freetv",
       "type": 0,
-      "url": "https://ghproxy.cn/https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/multicast.txt",
-      "playerType": 2,
-      "timeout": 60,
-      "ua": "okhttp/3.15"
-    },
-    { 
-      "name": "湾湾-aktv",
-      "type": 0,
-      "url": "http://aktv.top/live.m3u",
+      "url": "https://freetv.fun/test_channels_all.m3u",
       "playerType": 2,
       "timeout": 60,
       "ua": "okhttp/3.15"
@@ -504,7 +488,7 @@
       "ua": "okhttp/3.15"
     },
     { 
-      "name": "湾湾-4gtv本地(P)",
+      "name": "湾湾-ofiii本地(P)",
       "type": 0,
       "url": "http://192.168.2.3:37000/Sub?type=m3u",
       "playerType": 2,
