@@ -502,6 +502,14 @@
       "proxy":"proxy",
       "ua": "okhttp/3.15"
     },
+        { 
+      "name": "全球直播",
+      "type": 0,
+      "url": "https://freetv.fun/test_channels_all.m3u",
+      "playerType": 2,
+      "timeout": 60,
+      "ua": "okhttp/3.15"
+    },
     { 
       "name": "湾湾-4gtv本地(P)",
       "type": 0,
